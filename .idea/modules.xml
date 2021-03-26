@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DatosAbiertos/.idea/DatosAbiertos.iml" filepath="$PROJECT_DIR$/../DatosAbiertos/.idea/DatosAbiertos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InterfacesPython/.idea/InterfacesPython.iml" filepath="$PROJECT_DIR$/../InterfacesPython/.idea/InterfacesPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProyectoAPI.iml" filepath="$PROJECT_DIR$/.idea/ProyectoAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../UTP/ProgramacionIV/PythonEjercicios/.idea/PythonEjercicios.iml" filepath="$PROJECT_DIR$/../../../UTP/ProgramacionIV/PythonEjercicios/.idea/PythonEjercicios.iml" />
+    </modules>
+  </component>
+</project>
